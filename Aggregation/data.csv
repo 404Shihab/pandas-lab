@@ -1,0 +1,93 @@
+Name,Country,Age,Matches,Runs,Wickets,Average,StrikeRate
+Virat Kohli,India,37,275,14000,4,58.2,93.5
+Rohit Sharma,India,39,260,12500,8,49.8,91.7
+Babar Azam,Pakistan,31,285,13500,12,52.4,89.6
+Joe Root,England,35,320,16500,65,50.7,86.9
+Ben Stokes,England,35,250,9500,210,36.8,88.4
+Kane Williamson,New Zealand,36,270,14500,8,54.6,82.7
+Steve Smith,Australia,37,290,13200,22,51.9,87.3
+David Warner,Australia,40,300,15500,4,45.2,97.1
+Shubman Gill,India,27,180,8500,3,52.1,94.8
+Rishabh Pant,India,29,210,7800,45,42.7,102.5
+Jasprit Bumrah,India,32,190,850,410,14.8,68.2
+Ravindra Jadeja,India,37,300,6800,520,35.9,84.7
+Ravichandran Ashwin,India,40,250,4200,710,28.4,72.5
+KL Rahul,India,34,220,9200,2,48.7,88.9
+Hardik Pandya,India,33,180,5200,180,31.6,112.4
+Mohammad Rizwan,Pakistan,34,210,8200,5,44.8,91.2
+Shaheen Afridi,Pakistan,26,150,620,280,16.2,72.8
+Shakib Al Hasan,Bangladesh,39,320,11500,710,38.5,82.3
+Mushfiqur Rahim,Bangladesh,39,330,12000,35,40.2,79.8
+Mahmudullah,Bangladesh,40,300,8500,160,37.4,81.6
+Tamim Iqbal,Bangladesh,37,250,10500,5,44.9,82.7
+Mustafizur Rahman,Bangladesh,31,180,550,290,15.7,75.4
+Mehidy Hasan Miraz,Bangladesh,29,190,3800,310,30.6,78.9
+Litton Das,Bangladesh,32,210,7600,18,39.8,87.6
+Taskin Ahmed,Bangladesh,31,140,480,220,13.5,71.8
+Jos Buttler,England,36,260,11000,5,41.7,145.2
+Jofra Archer,England,31,120,450,210,12.8,76.4
+Jonny Bairstow,England,37,250,10500,2,39.9,137.6
+Jason Roy,England,36,220,8200,1,38.4,108.5
+Liam Livingstone,England,33,150,4800,85,34.2,141.7
+Pat Cummins,Australia,33,180,1800,380,21.5,74.6
+Mitchell Starc,Australia,36,200,2200,430,20.8,79.3
+Glenn Maxwell,Australia,38,230,7800,150,36.7,153.8
+Mitchell Marsh,Australia,34,190,6500,95,38.1,132.6
+Travis Head,Australia,32,180,8200,12,47.5,137.9
+Marnus Labuschagne,Australia,32,170,7800,14,51.2,86.4
+Alex Carey,Australia,35,180,5200,20,38.9,92.7
+Adam Zampa,Australia,34,160,600,270,17.2,69.8
+Quinton de Kock,South Africa,33,240,10500,4,45.8,139.4
+Kagiso Rabada,South Africa,31,190,1500,360,18.7,71.5
+Aiden Markram,South Africa,31,170,6500,120,39.4,121.6
+David Miller,South Africa,37,220,7200,5,41.2,138.8
+Heinrich Klaasen,South Africa,35,170,5900,2,43.6,145.7
+Tabraiz Shamsi,South Africa,36,130,320,190,14.6,68.9
+Faf du Plessis,South Africa,41,280,11500,2,43.7,131.2
+Nicholas Pooran,West Indies,30,180,6800,4,42.8,145.9
+Andre Russell,West Indies,38,190,5800,180,29.6,168.3
+Jason Holder,West Indies,34,210,5200,230,30.8,119.4
+Shai Hope,West Indies,32,190,7200,8,43.1,89.7
+Rashid Khan,Afghanistan,28,180,1800,410,15.9,136.2
+Mohammad Nabi,Afghanistan,41,250,4800,310,27.8,128.4
+Ibrahim Zadran,Afghanistan,25,120,4800,2,44.7,82.6
+Mujeeb Ur Rahman,Afghanistan,25,140,550,210,13.4,72.1
+Najibullah Zadran,Afghanistan,32,150,4200,3,35.8,132.7
+Tom Latham,New Zealand,34,250,11000,5,43.9,86.2
+Trent Boult,New Zealand,37,200,1700,390,19.3,76.5
+Tim Southee,New Zealand,37,230,2400,410,20.1,78.4
+Daryl Mitchell,New Zealand,35,180,6500,95,42.6,104.8
+Devon Conway,New Zealand,35,150,6200,2,46.8,91.5
+Rachin Ravindra,New Zealand,27,110,4300,75,45.1,102.3
+Suryakumar Yadav,India,36,170,6200,8,42.7,168.5
+Yashasvi Jaiswal,India,24,100,5100,2,54.3,96.8
+Sanju Samson,India,31,140,5200,10,43.6,148.2
+Ishan Kishan,India,28,120,4200,4,39.8,137.5
+Kuldeep Yadav,India,31,170,850,290,18.4,71.6
+Mohammed Shami,India,36,180,1100,370,17.5,74.2
+Axar Patel,India,32,190,3600,250,31.8,118.6
+Yuzvendra Chahal,India,36,160,500,280,14.2,69.7
+Shreyas Iyer,India,31,170,6800,3,45.2,103.4
+Ishan Kishan,India,28,120,4200,4,39.8,137.5
+Imam-ul-Haq,Pakistan,30,170,7600,1,49.7,82.8
+Fakhar Zaman,Pakistan,36,180,6500,3,38.4,132.9
+Haris Rauf,Pakistan,32,130,350,210,12.6,74.3
+Naseem Shah,Pakistan,23,100,280,170,11.8,69.5
+Shadab Khan,Pakistan,28,180,4300,220,29.4,135.6
+Saim Ayub,Pakistan,24,90,3500,35,42.1,128.7
+Moeen Ali,England,39,220,6800,250,34.7,142.5
+Adil Rashid,England,38,190,1200,310,16.4,78.2
+Sam Curran,England,28,150,4200,180,32.5,136.8
+Dawid Malan,England,39,160,5900,2,43.5,132.4
+Reece Topley,England,32,100,250,150,13.8,71.2
+Usman Khawaja,Australia,39,230,10500,3,47.8,82.5
+Cameron Green,Australia,27,130,4700,90,40.5,101.7
+Josh Hazlewood,Australia,35,180,950,350,17.1,69.3
+Nathan Lyon,Australia,38,200,1800,520,18.2,62.4
+Matt Henry,New Zealand,35,150,1100,280,16.5,74.8
+Lockie Ferguson,New Zealand,35,130,420,190,13.2,82.1
+Mushfiqur Rahim,Bangladesh,39,330,12000,35,40.2,79.8
+Nasum Ahmed,Bangladesh,31,100,180,120,12.4,65.8
+Najmul Hossain Shanto,Bangladesh,28,130,5200,2,43.8,82.4
+Tanzid Hasan,Bangladesh,25,70,2800,1,41.5,88.6
+Rishad Hossain,Bangladesh,24,75,1200,95,22.7,119.5
