@@ -20,3 +20,13 @@ defenders = df[df["Position"] == "Defender"]
 
 print(defenders)
 
+barcelona_midfielders = df[(df["Club"]== "Barcelona") &
+                          (df["Position"] == "Midfielder") ]
+
+print(barcelona_midfielders)
+
+england_or_forward = df[(df["Country"]== "England") |
+                          (df["Position"] == "Forward") ]
+
+
+print(england_or_forward)
