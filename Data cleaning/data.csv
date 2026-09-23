@@ -1,0 +1,56 @@
+Student_ID,Name,Age,Gender,Email,City,Department,CGPA,Attendance,Phone,Is_Active
+S001,Arman Kabir,23,Male,arman@gmail.com,Dhaka,CSE,3.75,88%,01711111111,1
+S001,Arman Kabir,23,Male,arman@gmail.com,Dhaka,CSE,3.75,88%,01711111111,1
+S001,Arman Kabir,23,Male,arman@gmail.com,Dhaka,CSE,3.75,88%,01711111111,1
+S001,Arman Kabir,23,Male,arman@gmail.com,Dhaka,CSE,3.75,88%,01711111111,1
+S002,  Rahim Hasan,22,male,rahim@gmail.com,dhaka,CSE,3.50,92%,01822222222,1
+S003,Sadia Akter,,Female,sadia@gmail.com,Dhaka,CSE,N/A,95%,01933333333,0
+S004,Tanvir Ahmed,24,M,Tanvir@gmail.com,Chittagong,CSE,3.20,78%,01644444444,1
+S005,Nusrat Jahan,23,Female,,Dhaka,EEE,3.85,91%,01755555555,0
+S006,Arif Hossain,twenty-two,Male,arif@gmail.com,Dhaka,BBA,3.10,72%,01866666666,1
+S007,Mehedi Hasan,25,male,mehedi@gmail.com,dhaka,CSE,4.20,89%,01977777777,0
+S008,Farzana Islam,22,Female,farzana@gmail.com,Chittagong,EEE,N/A,94%,01688888888,1
+S009,Rakibul Hasan,21,M,rakib@gmail,Dhaka,CSE,3.45,81%,01799999999,0
+S010,Ayesha Rahman,23,Female,ayesha@gmail.com,Dhaka,BBA,3.70,,01811111111,1
+S011,  Imran Khan  ,24,Male,imran@gmail.com,Dhaka,CSE,3.60,87%,01922222222,0
+S012,Nadia Sultana,22,f,nadia@gmail.com,dhaka,EEE,N/A,90%,01633333333,1
+S013,Fahim Ahmed,23,Male,fahim@gmail.com,Chittagong,CSE,3.25,76%,01744444444,0
+S014,Sumaiya Akter,22,Female,sumaiya@gmail.com,Dhaka,CSE,3.95,98%,01855555555,1
+S015,Rafi Islam,26,male,rafi@gmail.com,Dhaka,BBA,3.05,69%,01966666666,0
+S016,Mahira Khan,23,Female,mahira@gmail.com,Dhaka,EEE,N/A,85%,01677777777,1
+S017,Shuvo Roy,22,M,shuvo@gmail.com,dhaka,CSE,N/A,88%,01788888888,0
+S018,Tanjim Hasan,24,Male,tanjim@gmail.com,Chittagong,CSE,3.55,79%,01899999999,1
+S019,Mim Akter,21,Female,mim@gmail.com,Dhaka,CSE,3.88,93%,01911111111,0
+S020,Sakib Hossain,23,Male,sakib@gmail.com,Dhaka,BBA,3.30,74%,01622222222,1
+S021,Arman Kabir,23,Male,arman@gmail.com,Dhaka,CSE,3.75,88%,01711111111,1
+S022,Anika Noor,22,Female,anika@gmail.com,dhaka,CSE,3.72,91%,01833333333,0
+S023,Hasan Mahmud,-5,Male,hasan@gmail.com,Dhaka,EEE,N/A,80%,01944444444,1
+S024,Elma Islam,23,Female,elma@gmail.com,Dhaka,CSE,3.67,89%,01655555555,0
+S025,  Rahim Hasan,22,MALE,rahim@gmail.com,dhaka,CSE,3.50,92%,01822222222,1
+S026,Saad Ahmed,24,Male,saad@gmail.com,Chittagong,CSE,N/A,77%,01766666666,0
+S027,Labiba Jahan,22,F,labiba@gmail.com,Dhaka,EEE,3.82,96%,01877777777,1
+S028,Adnan Karim,23,Male,,Dhaka,CSE,N/A,86%,01988888888,0
+S029,Maruf Hossain,27,Male,maruf@gmail.com,Dhaka,BBA,2.95,65%,01699999999,1
+S030, Rima Akter,21,Female,rima@gmail.com,Dhaka,CSE,3.91,97%,01712345678,0
+S031,Shakil Ahmed,23,male,shakil@gmail.com,Chittagong,CSE,3.33,82%,01823456789,1
+S032,Maria Islam,22,Female,maria@gmail.com,Dhaka,EEE,N/A,90%,01934567890,0
+S033,Fuad Hasan,24,M,fuad@gmail.com,Dhaka,CSE,3.48,85%,01645678901,1
+S034,Sumaiya Akter,22,Female,sumaiya@gmail.com,Dhaka,CSE,N/A,98%,01855555555,0
+S035,Nayeem Khan,23,Male,nayeem@gmail.com,dhaka,CSE,3.61,88%,01756789012,1
+S036,Tisha Rahman,22,Female,tisha@gmail.com,Dhaka,BBA,3.44,84%,01867890123,0
+S037,Joy Ahmed,23,Male,joy@gmail.com,Dhaka,CSE,N/A,79%,01978901234,1
+S038,  Sohana Akter,21,Female,sohana@gmail.com,Chittagong,EEE,3.86,93%,01689012345,0
+S039,Riad Hasan,24,Male,riad@gmail.com,Dhaka,CSE,N/A,71%,01790123456,1
+S040,Anika Noor,22,Female,anika@gmail.com,dhaka,CSE,3.72,91%,01833333333,0
+S041,Asif Rahman,23,Male,asif@gmail.com,Dhaka,CSE,N/A,87%,01901234567,1
+S042,  Jannat Ara,22,Female,jannat@gmail.com,Dhaka,EEE,3.77,92%,01612345678,0
+S043,Shafin Ahmed,23,Male,shafin@gmail.com,Chittagong,CSE,3.41,80%,01723456789,1
+S044,Mahi Islam,21,Female,mahi@gmail.com,Dhaka,CSE,N/A,95%,01834567890,0
+S045,Imran Hossain,24,Male,imran2@gmail.com,Dhaka,BBA,3.22,73%,01945678901,1
+S046,Nabila Sultana,22,Female,nabila@gmail.com,Dhaka,CSE,N/A,94%,01656789012,0
+S047,Rony Das,23,Male,rony@gmail.com,dhaka,CSE,3.37,83%,01767890123,1
+S048,  Arif Hossain,22,Male,arif@gmail.com,Dhaka,BBA,N/A,72%,01866666666,0
+S049,Sadia Akter,22,Female,sadia@gmail.com,Dhaka,CSE,3.90,95%,01933333333,1
+S050,Unknown,?,unknown,,unknown,CSE,N/A,N/A,,0
+S050,Unknown,?,unknown,,unknown,CSE,N/A,N/A,,0
+S050,Unknown,?,unknown,,unknown,CSE,N/A,N/A,,0
